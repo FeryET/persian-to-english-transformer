@@ -1,0 +1,1 @@
+This is a neural machine translator, based on the transformer model first introduced in the [paper attention is all you need](https://arxiv.org/abs/1706.03762). This is implemented as a part of a course project for the course Deep Learning presented in the University of Tehran.
